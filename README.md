@@ -3,7 +3,7 @@
   <br />
   <br />
   <div id="badges">
-    <a href="www.linkedin.com/in/kareem-safwat">
+    <a href="https://linkedin.com/in/kareem-safwat">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <a href="https://x.com/_Kareem_Safwat_">
       <img src="https://img.shields.io/badge/X(Twitter)-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
