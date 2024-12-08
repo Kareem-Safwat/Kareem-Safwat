@@ -9,6 +9,9 @@
       <img src="https://img.shields.io/badge/X(Twitter)-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
     </a>
   </div>
+      <br/>
+      <a href="https://www.buymeacoffee.com/Kareem.Safwat"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=Kareem.Safwat&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+    <br />
     <br />
 <img src="https://komarev.com/ghpvc/?username=Kareem-Safwat&style=flat-square&color=blue" alt=""/>
     <h1>
