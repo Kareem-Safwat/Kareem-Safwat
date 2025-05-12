@@ -33,7 +33,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I try to make a new project and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kareem-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kareem-safwat)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kareem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-safwat/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
